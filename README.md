@@ -1,2 +1,2 @@
 # PDFcleanup
-https://yusufsehauysal.github.io/DFcleanup/
+https://yusufsehauysal.github.io/PDFcleanup/
